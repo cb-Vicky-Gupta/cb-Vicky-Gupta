@@ -3,9 +3,9 @@
   ---------------------------------------------------------------
   HOW TO USE:
   1. Create a new repo with the EXACT same name as your GitHub username.
-     (e.g. if your username is "vicky-dev", the repo must be "vicky-dev")
+     (e.g. for user "cb-Vicky-Gupta", the repo must be "cb-Vicky-Gupta")
   2. Make it public, add a README.md, and paste this file's contents in.
-  3. Replace every cb-Vicky-Gupta / YOUR_... placeholder below.
+  3. Replace the YOUR_LEETCODE_USERNAME placeholder in the LeetCode section.
   ---------------------------------------------------------------
 -->
 
@@ -28,10 +28,10 @@
 
 ### 👨‍💻 About
 
-Frontend developer focused on building production React and Next.js applications with TypeScript. I care about clean component architecture, performance, accessibility, and shipping interfaces that feel fast. Currently deepening my backend skills with Python and FastAPI, and I write technical articles about what I build along the way.
+Frontend developer focused on building production React and Next.js applications with TypeScript. I care about clean component architecture, performance, accessibility, and shipping interfaces that feel fast. I write technical articles about what I build along the way.
 
 - 🔭 Building React/Next.js apps with TypeScript, Redux Toolkit & Tailwind
-- 🌱 Learning Python, FastAPI, and system design
+- 🌱 Learning Java, DSA, and system design
 - ✍️ I write technical blogs on frontend architecture and state management
 - 💬 Ask me about React performance, TypeScript, or component design
 
@@ -43,7 +43,7 @@ Frontend developer focused on building production React and Next.js applications
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
@@ -85,21 +85,14 @@ Frontend developer focused on building production React and Next.js applications
 
 ---
 
+### 🧩 LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vicky_iiest?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
 <p align="center">
   <i>Open to frontend roles — feel free to reach out.</i>
-</p>## Hi there 👋
-
-<!--
-**cb-Vicky-Gupta/cb-Vicky-Gupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
