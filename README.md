@@ -24,6 +24,9 @@
   <a href="mailto:vickygupta031@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cb-Vicky-Gupta&style=flat-square&color=4F9CF9&label=Profile+Views" alt="Profile Views" />
+</p>
 ---
 
 ### 👨‍💻 About
