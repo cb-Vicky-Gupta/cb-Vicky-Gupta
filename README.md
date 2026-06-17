@@ -75,7 +75,7 @@ Frontend developer focused on building production React and Next.js applications
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cb-Vicky-GuptaE&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cb-Vicky-Gupta&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cb-Vicky-Gupta&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top Languages" />
 </p>
 
