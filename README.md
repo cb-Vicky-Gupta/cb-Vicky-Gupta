@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://YOUR_BLOG.hashnode.dev"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/trader-vicky"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="http://tech-trackerr.vercel.app/"><img src="https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white" alt="Blog"/></a>
+  <a href="https://vickfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:vickygupta031@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
